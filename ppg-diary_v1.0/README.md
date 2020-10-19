@@ -2,7 +2,7 @@
 
 This version of the toolbox contains the scripts used in the following publication:
 
-Charlton P.H. *et al.* **Acquiring wearable photoplethysmography data in daily life: the PPG Diary Pilot Study **, in *Engineering Proceedings*, [Under Review]
+Charlton P.H. *et al.* **Acquiring wearable photoplethysmography data in daily life: the PPG Diary Pilot Study**, in *Engineering Proceedings*, [Under Review]
 
 The scripts are provided in Matlab &reg; format.
 
