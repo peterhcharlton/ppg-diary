@@ -14,7 +14,7 @@ This pilot study investigated the feasibility of acquiring photoplethysmography 
 
 The work presented in this case study can be replicated as follows:
 
-*   Download the *ppg_diary_pilot_conv_data.mat* data file.
+*   Download the *ppg_diary_pilot_conv_data.mat* data file from [here](https://doi.org/10.5281/zenodo.3268500).
 *   Download [Version 1](https://github.com/peterhcharlton/ppg-diary/tree/master/ppg-diary_v1.0) of the scripts
 *   Analyse the data using the *[ppg_diary_pilot1_analysis.m](https://raw.githubusercontent.com/peterhcharlton/ppg-diary/master/ppg-diary_v1.0/ppg_diary_pilot1_analysis.m)* script. This script calls the *[PulseAnalyse.m](https://raw.githubusercontent.com/peterhcharlton/ppg-diary/master/ppg-diary_v1.0/PulseAnalyse.m)* script, so you will need this script too (v.1.2 beta).
 
